@@ -1,6 +1,8 @@
 
-[![Shayan Shabihi's stats](https://github-readme-stats.vercel.app/api?username=shaihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=shaihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true) 
+<!-- [![Shayan Shabihi's stats](https://github-readme-stats.vercel.app/api?username=shaihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=shaihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true)  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaihish&layout=compact&card_width=350&langs_count=8&hide=css,html,jupyter,%20notebook,javascript,tex,Assembly,Makefile&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PapaSinku/PapaSinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
