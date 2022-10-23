@@ -7,7 +7,7 @@
 
 <!-- ![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true) -->
 
-<p align="justify">
+<p align="justify" style="font-family:Arial, sans-serif;">
 I'm Shayan Shabihi, now a senior student in CE at the University of Tehran (UT). I've so far had a very pleasing time during my undergraduate studies, and am currently seeking more opportunities to grow and influence my community. I'm particularly interested in computer security, distributed ledger systems, and deep/reinforcement learning.
 </p>
 <br>
