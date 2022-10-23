@@ -5,7 +5,10 @@
 
 <!-- [![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true)
+<!-- ![Shayan Shabihi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihish&theme=synthwave&card_width=360&count_private=true&include_all_commits=true&show_icons=true) -->
+
+[![My Skills](https://skillicons.dev/icons?i=java,,python,c++,c)](https://skillicons.dev)
+
 
 <!--
 **shabihish/shabihish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
