@@ -15,7 +15,7 @@ I have years of experience doing research in different areas of deep learning, b
 </p>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,go,cpp,c,nodejs,git,css,html,tensorflow,pytorch,docker,ros,mysql,bash,androidstudio,eclipse,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,go,cpp,c,nodejs,git,css,html,tensorflow,pytorch,docker,ros,mysql,bash,androidstudio,eclipse,idea&perline=9)](https://skillicons.dev)
 
 
 <!--
